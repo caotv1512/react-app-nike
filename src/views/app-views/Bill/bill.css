@@ -1,0 +1,15 @@
+.fontsize {
+  font-size: 15px;
+}
+
+p {
+  margin-bottom: 0 !important;
+}
+
+.margin {
+  margin-bottom: 5px;
+}
+
+.summary-column {
+  vertical-align: bottom;
+}
